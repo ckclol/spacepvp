@@ -1,7 +1,7 @@
 name: SpacePVP
-version: ${project.version}
+version: 1.69
 main: pvp.space.spacepvp
-api-version: 1.16
+api-version: 1.8
 authors: [ cooltcfplayz ]
 description: fack you
 website: velocity 12.34
